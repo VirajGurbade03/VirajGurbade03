@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Viraj Gurbade</h1>
 <img align ="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h3 align="center">  Passionate frontend developer from India with expertise in AI, Data Science, and data visualization using Python, Power BI, and Flutter-Dart. Skilled in Firebase, Google Cloud, and Figma, I craft cross-platform apps and web solutions. Transforming complex data into actionable insights and always learning about emerging technologies.  </h3>
+<h3 align="center">  I am a passionate developer with a strong interest in building innovative and user-friendly applications. I leverage my expertise in Flutter - Dart to create cross-platform mobile apps, web applications, and watch & TV applications using Flutter Flow. My experience extends to data visualization, utilizing both Python and Power BI to effectively present and analyze data. Additionally, I possess a working knowledge of Firebase databases and Google Cloud services.  </h3>
 
 - 🌱 I’m currently learning **Flutter -Dart, Cloud**
 
