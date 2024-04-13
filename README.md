@@ -1,5 +1,10 @@
 <img align ="center" alt="heading" width="1200" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMwMDA4MzcsIm5iZiI6MTcxMzAwMDUzNywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDEzVDA5Mjg1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkyNDFhMzkyNzY5OGRlODhiOTFkZTNjZjdiZjc3YzdiYTdmZWJlZmVkNjliZTFjNDhmYmM0NWY2NWU2MzhmNmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._C3PAi0xnpCJXE7pI2C8O9nGelnYTtdbKNBaGtMjftI">
-<h1 align="center">Hi 👋, I'm Viraj Gurbade</h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There%F0%9F%91%8B%F0%9F%8F%BB...!+;I'm+Viraj+Gurbade &font=Fira%20Code&center=true&weight=700&height=50&duration=4000&pause=1000&color=58A6FF" alt="Example Usage - README Typing SVG">
+</h1>
+
+
 <img align ="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="center">  I am a passionate developer with a strong interest in building innovative and user-friendly applications. I leverage my expertise in Flutter - Dart to create cross-platform mobile apps, web applications, and watch & TV applications using Flutter Flow. My experience extends to data visualization, utilizing both Python and Power BI to effectively present and analyze data. Additionally, I possess a working knowledge of Firebase databases and Google Cloud services.  </h3>
