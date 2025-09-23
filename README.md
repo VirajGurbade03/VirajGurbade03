@@ -1,8 +1,6 @@
 <img align ="center" alt="heading" width="1200" src="https://github.com/VirajGurbade03/VirajGurbade03/assets/115770356/3fc62feb-e4c2-4c27-a2c9-d075d00b3b36">
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There%F0%9F%91%8B%F0%9F%8F%BB...!+;I'm+Viraj+Gurbade &font=Fira%20Code&center=true&weight=700&height=50&duration=4000&pause=1000&color=58A6FF" alt="Example Usage - README Typing SVG">
-</h1>
+
 
 
 <img align ="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
