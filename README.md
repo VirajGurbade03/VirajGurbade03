@@ -12,10 +12,10 @@
 </div>
 
 ### 🚀 The Impact 
-* [cite_start]**Cost Efficiency:** Optimized cloud costs by **30%** through strategic resource management[cite: 5, 18].
-* [cite_start]**Deployment Velocity:** Accelerated release cycles by **55-60%** using automated CI/CD pipelines[cite: 5, 12].
-* [cite_start]**Infrastructure Reliability:** Achieved **99.9% uptime** for scalable AI-native applications[cite: 30].
-* [cite_start]**Security First:** Reduced incident rates by **20%** using AWS GuardDuty and IAM governance[cite: 13].
+* **Cost Efficiency:** Optimized cloud costs by **30%** through strategic resource management.
+* **Deployment Velocity:** Accelerated release cycles by **55-60%** using automated CI/CD pipelines.
+* **Infrastructure Reliability:** Achieved **99.9% uptime** for scalable AI-native applications.
+* **Security First:** Reduced incident rates by **20%** using AWS GuardDuty and IAM governance.
 
 ---
 
@@ -63,8 +63,8 @@
 ---
 
 ### 🌟 Featured Work
-* [cite_start]**Nexus AI Platform:** Engineered a full-stack platform using **Generative AI (Gemini)** and modular API design[cite: 24, 26].
-* [cite_start]**ComfortCast:** Developed a predictive ML model for HVAC control that saved **25% in energy**[cite: 29, 30].
+* **Nexus AI Platform:** Engineered a full-stack platform using **Generative AI (Gemini)** and modular API design.
+* **ComfortCast:** Developed a predictive ML model for HVAC control that saved **25% in energy**.
 
 <div align="center">
   <br />
