@@ -1,28 +1,72 @@
-<img align ="center" alt="heading" width="1200" src="https://github.com/VirajGurbade03/VirajGurbade03/assets/115770356/3fc62feb-e4c2-4c27-a2c9-d075d00b3b36">
+<div align="center">
+  <img src="https://github.com/VirajGurbade03/VirajGurbade03/assets/115770356/3fc62feb-e4c2-4c27-a2c9-d075d00b3b36" width="100%" />
 
+  # ☁️ Viraj V. Gurbade
+  ### **Architecting the Future of AI-Cloud Infrastructure**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/virajgurbade)
+  [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail)](mailto:virajggurbade@gmail.com)
+  ![Visitors](https://komarev.com/ghpvc/?username=VirajGurbade03&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
+  ---
+</div>
 
+### 🚀 The Impact 
+* [cite_start]**Cost Efficiency:** Optimized cloud costs by **30%** through strategic resource management[cite: 5, 18].
+* [cite_start]**Deployment Velocity:** Accelerated release cycles by **55-60%** using automated CI/CD pipelines[cite: 5, 12].
+* [cite_start]**Infrastructure Reliability:** Achieved **99.9% uptime** for scalable AI-native applications[cite: 30].
+* [cite_start]**Security First:** Reduced incident rates by **20%** using AWS GuardDuty and IAM governance[cite: 13].
 
-<img align ="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+---
 
-<h3 align="center">  I am a passionate developer with a strong interest in building innovative and user-friendly applications. I leverage my expertise in Flutter - Dart to create cross-platform mobile apps, web applications, and watch & TV applications using Flutter Flow. My experience extends to data visualization, utilizing both Python and Power BI to effectively present and analyze data. Additionally, I possess a working knowledge of Firebase databases and Google Cloud services.  </h3>
-
-- 🌱 I’m currently learning **Flutter -Dart, Cloud**
-
-- 💬 Ask me about **Android development | Data science | Data visualization | Artificial Intelligence | Flutter Development| Goggle Analytics | Google Cloud | Figma development**
-
-- 📫 How to reach me **virajggurbade@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1r-YL4_cj4EmEBOk82UtI-qZxUGQRKTWx?usp=drive_link](https://drive.google.com/drive/folders/1r-YL4_cj4EmEBOk82UtI-qZxUGQRKTWx?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
+### 🎓 Certifications (Verified)
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/viraj-gurbade-3bbb13228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/viraj-gurbade-3bbb13228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://kaggle.com/viraj gurbade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="viraj gurbade" height="30" width="40" /></a>
-<a href="https://fb.com/viraj gurbade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="viraj gurbade" height="30" width="40" /></a>
-<a href="https://instagram.com/viraj gurbade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viraj gurbade" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/viraj gurbade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="viraj gurbade" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Oracle-Certified_Gen_AI_Professional-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Associate_Cloud_Engineer-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Educate_Graduate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Advanced_Data_Analytics-34A853?style=flat-square&logo=google&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Core Competencies
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☁️ Cloud & Infrastructure</h4>
+      <ul>
+        <li><b>AWS:</b> EC2, S3, RDS, Lambda, VPC, CloudFormation [cite: 11, 38]</li>
+        <li><b>Azure & GCP:</b> Azure Monitor, GCP Cloud-Native dev [cite: 17, 38]</li>
+        <li><b>Orchestration:</b> Docker, Kubernetes, Terraform [cite: 5, 38]</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 AI & Backend Engineering</h4>
+      <ul>
+        <li><b>Frameworks:</b> FastAPI, Flutter (Dart), Python [cite: 24, 36]</li>
+        <li><b>AI/ML:</b> LLM Integration, Prompt Engineering, Scikit-learn [cite: 30, 36]</li>
+        <li><b>DevOps:</b> GitHub Actions, CI/CD, Secrets Management [cite: 12, 30, 38]</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Engineering Metrics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VirajGurbade03&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VirajGurbade03&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+### 🌟 Featured Work
+* [cite_start]**Nexus AI Platform:** Engineered a full-stack platform using **Generative AI (Gemini)** and modular API design[cite: 24, 26].
+* [cite_start]**ComfortCast:** Developed a predictive ML model for HVAC control that saved **25% in energy**[cite: 29, 30].
+
+<div align="center">
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%"/>
+</div>
